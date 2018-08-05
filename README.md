@@ -4,4 +4,4 @@ O projeto foi realizado em Java, tendo como objetivo a utilização de um banco 
 O projeto como um todo não foi finalizado por falta de tempo, contudo a maioria dos módulos e classes do mesmo foram implementadas.
 Para o storage dos dados foi utilizado o Windows Server 2016.
 A linguagem utilizada para a realização do projeto foi o JAVA, utilizando o Módulo JAVAFx e a ferramenta scene builder para o Layout.
-A IDE preterida foi o NetBeans.
+A IDE escolhida foi o NetBeans.
