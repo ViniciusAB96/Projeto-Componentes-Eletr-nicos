@@ -1,4 +1,4 @@
-# Projeto-Componentes-Eletr-nicos
+# Projeto-Componentes-Elétricos
 Projeto realizado utilizando por mim e pelo meu colega de classe Doriedson.
 O projeto foi realizado em Java, tendo como objetivo a utilização de banco de dados para realizar o storage dos dados e para que os mesmos sejam consumidos por meio da aplicação.
 O projeto como um todo não foi finalizado por falta de tempo, contudo a maioria dos módulos e classes do mesmo foram implementadas.
